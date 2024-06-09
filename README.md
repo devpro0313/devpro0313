@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 
+  Hay, &lt;friends/&gt;! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />
 </h1>
 <p> 
