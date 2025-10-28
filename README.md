@@ -21,7 +21,7 @@
   📱 Passionate about building apps in <b>Flutter + Laravel backend</b><br>
   🤖 Exploring <b>Machine Learning, AI, and Robotics</b><br>
   ✈️ Interested in pursuing a Master’s in <b>Machine Learning / AI</b> abroad<br>
-  📫 How to reach me: <a href="mailto:devpro0313@gmail.com">devpro0313@gmail.com</a> | 📞 +93 748485901
+  📫 How to reach me: <a href="mailto:devpro0@gmail.com">devpro0313@gmail.com</a> | 📞 +93 718185901
 </p>
 
 <hr>
